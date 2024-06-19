@@ -4,3 +4,4 @@ collections:
 plugins:
   - jekyll-feed
 theme: roz-aer
+baseurl: /essonne2024
